@@ -33,3 +33,20 @@ h4{
 h4>strong{
     color: rgb(0, 157, 255);
 }
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+tr:nth-child(odd){
+    background-color:rgba(4, 132, 251, 0.368);
+
+}
+th, td {
+    text-align: left;
+    padding-right: 150px;
+  }
+th{
+    background-color: rgb(0, 140, 255);
+    color: white;
+}
+
