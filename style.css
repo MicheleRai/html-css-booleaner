@@ -13,5 +13,23 @@ header{
 }
 .logo{
     margin-top: 60px;
+    margin-left: 10px;
     height: 50px;
+}
+main{
+    padding-left: 10px;
+}
+h1{
+    padding: 0%;
+    margin: 0;
+}
+.sotto-t{
+    color: gray;
+}
+h4{
+    padding: 0;
+    margin: 0;
+}
+h4>strong{
+    color: rgb(0, 157, 255);
 }
