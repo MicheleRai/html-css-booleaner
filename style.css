@@ -49,4 +49,14 @@ th{
     background-color: rgb(0, 140, 255);
     color: white;
 }
+.raccomanded{
+    position: relative;
 
+}
+.top-left {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+    font-size: large;
+}
